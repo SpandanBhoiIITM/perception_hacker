@@ -17,3 +17,13 @@ Perception Hacker is an AI tool that analyzes a user's digital footprint — lik
 
 ## 💡 Sample Output
 
+
+🧠 AI Perception Summary:
+You appear as a curious, ambitious student deeply involved in GenAI and NLP, exploring LLMs and transformers.
+
+💬 Sentiment Analysis:
+{'neg': 0.047, 'neu': 0.733, 'pos': 0.22, 'compound': 0.8718}
+
+🔑 Top Perceived Keywords:
+['data science student', 'GenAI', 'transformers', 'real-world problems', 'perception modeling']
+
